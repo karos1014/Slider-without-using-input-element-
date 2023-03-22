@@ -60,6 +60,7 @@ body {
     color: #0a4575;
     user-select: none;
     text-align: center;
+    text-transform: capilalize;
 }
 
 .container .value span {
